@@ -1,0 +1,12 @@
+{
+  "name": "wids",
+  "version": "0.0.1",
+  "description": "Web If Design System",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
